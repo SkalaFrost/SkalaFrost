@@ -1,0 +1,22 @@
+name: Update README with Repo Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Cập nhật mỗi giờ
+  workflow_dispatch: # Cho phép chạy thủ công
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README.md
+        run: |
+          python3 update_readme.py
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "Update README with latest repo stats"
+          git push
