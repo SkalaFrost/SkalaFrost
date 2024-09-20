@@ -26,12 +26,7 @@ def update_readme(repos):
     
     table_rows = ""
     for repo in repos:
-        repo_name = repo["name"]
-        stars = repo["stargazers_count"]
-        forks = repo["forks_count"]
-        issues = repo["open_issues_count"]
-        pulls = repo["open_issues_count"]  
-
+        repo_name = repo["name"] 
         table_rows += f"<tr><td><a href=\"{repo['html_url']}\"><b>{repo_name}</b></a></td><td><img alt=\"Stars\" src=\"https://img.shields.io/github/stars/{GITHUB_USERNAME}/{repo_name}?style=flat-square&labelColor=343b41\"/></td><td><img alt=\"Forks\" src=\"https://img.shields.io/github/forks/{GITHUB_USERNAME}/{repo_name}?style=flat-square&labelColor=343b41\"/></td><td><img alt=\"Issues\" src=\"https://img.shields.io/github/issues/{GITHUB_USERNAME}/{repo_name}?style=flat-square&labelColor=343b41\"/></td><td><img alt=\"Pull Requests\" src=\"https://img.shields.io/github/issues-pr/{GITHUB_USERNAME}/{repo_name}?style=flat-square&labelColor=343b41\"/></td></tr>\n"
 
     table_footer = """
