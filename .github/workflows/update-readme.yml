@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com//SkalaFrost/SkalaFrost.git
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/SkalaFrost/SkalaFrost.git
           git checkout test-branch
           git commit -am "Update readme"
           git push
