@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 * * * *' # Cập nhật mỗi giờ
   workflow_dispatch: # Cho phép chạy thủ công
+  push:
+    branches:
+      - test-branch  # Đảm bảo nhánh này được liệt kê
 
 jobs:
   update-readme:
