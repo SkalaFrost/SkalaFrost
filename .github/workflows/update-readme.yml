@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  
   push:
     branches:
-      - test-branch  
+      - main
 
 jobs:
   update-readme:
@@ -24,6 +24,6 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git remote set-url origin https://SkalaFrost:${{ secrets.GH_TOKEN }}@github.com/SkalaFrost/SkalaFrost.git
-          git checkout test-branch
+          git checkout main
           git commit -am "Update readme"
           git push
