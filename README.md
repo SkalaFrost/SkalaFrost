@@ -13890,6 +13890,7 @@
 
 
 
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -13905,6 +13906,7 @@
 <tr><td><a href="https://github.com/SkalaFrost/artcraft"><b>artcraft</b></a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/SkalaFrost/artcraft?style=flat-square&labelColor=343b41"/></td><td><img alt="Forks" src="https://img.shields.io/github/forks/SkalaFrost/artcraft?style=flat-square&labelColor=343b41"/></td><td><img alt="Issues" src="https://img.shields.io/github/issues/SkalaFrost/artcraft?style=flat-square&labelColor=343b41"/></td><td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SkalaFrost/artcraft?style=flat-square&labelColor=343b41"/></td></tr>
 <tr><td><a href="https://github.com/SkalaFrost/BitsBot"><b>BitsBot</b></a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/SkalaFrost/BitsBot?style=flat-square&labelColor=343b41"/></td><td><img alt="Forks" src="https://img.shields.io/github/forks/SkalaFrost/BitsBot?style=flat-square&labelColor=343b41"/></td><td><img alt="Issues" src="https://img.shields.io/github/issues/SkalaFrost/BitsBot?style=flat-square&labelColor=343b41"/></td><td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SkalaFrost/BitsBot?style=flat-square&labelColor=343b41"/></td></tr>
 <tr><td><a href="https://github.com/SkalaFrost/BlumBot"><b>BlumBot</b></a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/SkalaFrost/BlumBot?style=flat-square&labelColor=343b41"/></td><td><img alt="Forks" src="https://img.shields.io/github/forks/SkalaFrost/BlumBot?style=flat-square&labelColor=343b41"/></td><td><img alt="Issues" src="https://img.shields.io/github/issues/SkalaFrost/BlumBot?style=flat-square&labelColor=343b41"/></td><td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SkalaFrost/BlumBot?style=flat-square&labelColor=343b41"/></td></tr>
+<tr><td><a href="https://github.com/SkalaFrost/CapCap"><b>CapCap</b></a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/SkalaFrost/CapCap?style=flat-square&labelColor=343b41"/></td><td><img alt="Forks" src="https://img.shields.io/github/forks/SkalaFrost/CapCap?style=flat-square&labelColor=343b41"/></td><td><img alt="Issues" src="https://img.shields.io/github/issues/SkalaFrost/CapCap?style=flat-square&labelColor=343b41"/></td><td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SkalaFrost/CapCap?style=flat-square&labelColor=343b41"/></td></tr>
 <tr><td><a href="https://github.com/SkalaFrost/dbt"><b>dbt</b></a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/SkalaFrost/dbt?style=flat-square&labelColor=343b41"/></td><td><img alt="Forks" src="https://img.shields.io/github/forks/SkalaFrost/dbt?style=flat-square&labelColor=343b41"/></td><td><img alt="Issues" src="https://img.shields.io/github/issues/SkalaFrost/dbt?style=flat-square&labelColor=343b41"/></td><td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SkalaFrost/dbt?style=flat-square&labelColor=343b41"/></td></tr>
 <tr><td><a href="https://github.com/SkalaFrost/DuckChainBot"><b>DuckChainBot</b></a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/SkalaFrost/DuckChainBot?style=flat-square&labelColor=343b41"/></td><td><img alt="Forks" src="https://img.shields.io/github/forks/SkalaFrost/DuckChainBot?style=flat-square&labelColor=343b41"/></td><td><img alt="Issues" src="https://img.shields.io/github/issues/SkalaFrost/DuckChainBot?style=flat-square&labelColor=343b41"/></td><td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SkalaFrost/DuckChainBot?style=flat-square&labelColor=343b41"/></td></tr>
 <tr><td><a href="https://github.com/SkalaFrost/FlashcardEnglish"><b>FlashcardEnglish</b></a></td><td><img alt="Stars" src="https://img.shields.io/github/stars/SkalaFrost/FlashcardEnglish?style=flat-square&labelColor=343b41"/></td><td><img alt="Forks" src="https://img.shields.io/github/forks/SkalaFrost/FlashcardEnglish?style=flat-square&labelColor=343b41"/></td><td><img alt="Issues" src="https://img.shields.io/github/issues/SkalaFrost/FlashcardEnglish?style=flat-square&labelColor=343b41"/></td><td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SkalaFrost/FlashcardEnglish?style=flat-square&labelColor=343b41"/></td></tr>
@@ -13922,6 +13924,7 @@
 
   </tbody>
 </table>
+
 
 
 
